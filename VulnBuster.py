@@ -53,6 +53,6 @@ if st.button("🔍 Scan for Vulnerabilities"):
 
 # --- Footer ---
 st.markdown("---")
-st.caption("© 2025 MakCarnage | Built with ❤️ using Streamlit")
+st.caption("© 2025 VulnBuster | Built with ❤️ using Streamlit")
 
 
